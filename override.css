@@ -1,0 +1,66 @@
+@page{
+  size: letter portrait;
+  margin: 0.2in 0.2in 0.2in 0.2in;
+}
+
+* {
+  /* Override default right margin for sidebar*/
+  --pagedjs-margin-right: 0.2in !important;
+  --pagedjs-margin-left: 0.2in;
+  --pagedjs-margin-top: 0.2in;
+  --pagedjs-margin-bottom: 0.2in;
+}
+
+
+:root{
+  --sidebar-width: 17rem;
+  --sidebar-background-color: #acd9d9;
+  --decorator-border: 1px solid #ccc; /* change color and thickness of timeline */
+
+}
+
+.decorator::after{
+  background-color: #000000; /* change color timeline dots */
+
+}
+
+
+/* Define the font family here */
+body{
+  font-family: "Roboto", sans-serif;
+
+}
+
+#honors ul{
+  margin-top: 0.05in;
+  padding-left: 0;
+  font-weight: 400;
+  line-height: 1.75;
+}
+#honors{
+  line-height: 1.5;
+}
+
+#honors ul{
+  margin: 0.05in 0 0.15in;
+  padding: 0;
+}
+
+#organ ul{
+  margin-top: 0.05in;
+  padding-left: 0;
+  font-weight: 400;
+  line-height: 1.75;
+}
+#organ{
+  line-height: 1.5;
+}
+
+#organ ul{
+  margin: 0.05in 0 0.15in;
+  padding: 0;
+}
+
+h1, h2{
+  text-transform: capitalize;
+}
