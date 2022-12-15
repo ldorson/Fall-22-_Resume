@@ -26,7 +26,7 @@ knit: pagedown::chrome_print
 
 -   [Software Programs:]{.underline} R (3 years), Excel (4 years), & STATA (1 year)
 
--   [Presentation:]{.underline} Microsoft Office, R Markdown ([Example: Synthetic Stock Returns](https://github.com/ldorson/Financial-Econometrics))
+-   [Presentation:]{.underline} Microsoft Office, R Markdown ([[1] Synthetic Stock Returns](https://github.com/ldorson/Financial-Econometrics), [[2] Risk Analysis](https://github.com/ldorson/Risk-Analysis-Using-Econometric-Models), [[3] Synthetic Program Website](https://ldorson.github.io/ProgramEval_website/))
 
 -   [Non-Technical Skills:]{.underline} Time & Task Management, Communication, Goal & Detail Oriented
 
@@ -46,7 +46,7 @@ knit: pagedown::chrome_print
 
 ## Disclaimer {#disclaimer}
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+This resume was made with the R [**pagedown**](https://github.com/rstudio/pagedown).
 
 # Main
 
@@ -55,6 +55,18 @@ This resume was made with the R package [**pagedown**](https://github.com/rstudi
 Economic analytics graduate student that is proficiently skilled in data analysis, data visualization, and predictive modeling utilizing different optimization and probability techniques. Has a passion for detecting patterns and causal relationships in data and generating dynamic reports to illustrate findings.
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
+
+### Georgia State University
+
+M.A. in Economics, Analytics Track
+
+Atlanta, Georgia
+
+December 2022
+
+GPA: 3.96
+
+Thesis: Impact of ACA Medicaid Expansion on Health Care Access Across Age Groups ([Thesis Report](https://github.com/ldorson/Capstone-ACA/blob/2362825a6bee10058f9d777fcb5365aa65c3b081/GSU%20Capstone%20Report.pdf))
 
 ### University of West Georgia
 
@@ -65,18 +77,6 @@ Carrollton, GA
 December 2020
 
 GPA: 3.96, *summa cum laude*
-
-### Georgia State University
-
-M.A. in Economics, Analytics Track
-
-Atlanta, Georgia
-
-\*December 2022
-
-Current GPA: 3.9
-
-Thesis: Impact of ACA Medicaid Expansion on Health Care Access Across Age Groups ([Thesis Report](https://github.com/ldorson/Capstone-ACA/blob/2362825a6bee10058f9d777fcb5365aa65c3b081/GSU%20Capstone%20Report.pdf))
 
 ## Work Experience {data-icon="laptop"}
 
@@ -99,7 +99,7 @@ GSU, Office of Supplemental Instruction
 
 Atlanta, GA
 
-Fall 2021 - Present
+Fall 2021 - Fall 2022
 
 -   Tasked with creating animated videos utilizing animation software PowToon to help students with Intro to Microeconomics concepts (Marginal Analysis, Elasticity,etc.).
 -   Duties include script creation, audio recording, and video editing along with additional administrative tasks.
