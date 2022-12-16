@@ -1,4 +1,3 @@
-<<<<<<< HEAD:resume.Rmd
 ---
 title: "Lindsey Dorson's Resume"
 author: Lindsey Dorson
