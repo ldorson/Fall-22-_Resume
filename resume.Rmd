@@ -24,7 +24,7 @@ knit: pagedown::chrome_print
 
 -   [Technical Skills:]{.underline} Regression Analysis, Data Mining, Data Visualization, Causal Inference, Decision & Optimization Analysis, Forecasting
 
--   [Software Programs:]{.underline} R (3 years), Excel (4 years), & STATA (1 year)
+-   [Tools & Softwares:]{.underline} R (3 years), Excel (4 years), Git , Slack, STATA
 
 -   [Presentation:]{.underline} Microsoft Office, R Markdown ([[1] Synthetic Stock Returns](https://github.com/ldorson/Financial-Econometrics), [[2] Risk Analysis](https://github.com/ldorson/Risk-Analysis-Using-Econometric-Models), [[3] Synthetic Program Website](https://ldorson.github.io/ProgramEval_website/))
 
@@ -52,7 +52,7 @@ This resume was made with the R [**pagedown**](https://github.com/rstudio/pagedo
 
 ## Lindsey Dorson {#title}
 
-Economic analytics graduate student that is proficiently skilled in data analysis, data visualization, and predictive modeling utilizing different optimization and probability techniques. Has a passion for detecting patterns and causal relationships in data and generating dynamic reports to illustrate findings.
+Recent Economic analytics graduate that is proficiently skilled in data analysis, data visualization, and predictive modeling utilizing different optimization and probability techniques. Has a passion for detecting patterns and causal relationships in data and generating dynamic reports to illustrate findings.
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
